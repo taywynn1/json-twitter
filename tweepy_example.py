@@ -23,7 +23,7 @@ for tweet in public_tweets:
     print(tweet) ## Huh. That's not easy to read.
 
 # Let's pull apart one tweet to take a look at it.
-single_tweet = public_tweets[0]
+single_tweet = public_tweets[1]
 
 ## What are the tags?
 print("\n*** tags of the tweet dictionary ***")
